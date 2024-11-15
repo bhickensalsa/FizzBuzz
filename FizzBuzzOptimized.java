@@ -1,5 +1,5 @@
 /**
-* Returns the FizzBuzz result for a given number.
+* Simple FizzBuzz program optimized by ChatGPT
 * 
 * @author ChatGPT
 */
